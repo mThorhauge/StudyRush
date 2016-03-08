@@ -1,0 +1,34 @@
+﻿Build started 1/21/2016 4:45:17 PM.
+     1>Project "F:\MyFiles\School\Years\3_ThirdYear\1stSemester\ComputerProgramming\Assignmnet_06\Ass.06_Final\Ass.06_Final\Ass.06_Final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Audio.cpp BeforeStart.cpp Characters.cpp Game.cpp Librarians.cpp Main.cpp OneP.cpp Physics.cpp Player.cpp Render.cpp Sprites.cpp TwoP.cpp
+         TwoP.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\game.h(3): fatal error C1083: Cannot open include file: 'allegro5/allegro_ttf.h': No such file or directory
+         Sprites.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\sprites.cpp(1): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         Render.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\render.cpp(3): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         Player.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\sprites.h(2): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         Physics.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\sprites.h(2): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         OneP.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\game.h(3): fatal error C1083: Cannot open include file: 'allegro5/allegro_ttf.h': No such file or directory
+         Main.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\main.cpp(2): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         Librarians.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\sprites.h(2): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         Game.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\game.cpp(2): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         Characters.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\sprites.h(2): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         BeforeStart.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\beforestart.cpp(1): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         Audio.cpp
+     1>f:\myfiles\school\years\3_thirdyear\1stsemester\computerprogramming\assignmnet_06\ass.06_final\ass.06_final\audio.cpp(2): fatal error C1083: Cannot open include file: 'allegro5/allegro.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "F:\MyFiles\School\Years\3_ThirdYear\1stSemester\ComputerProgramming\Assignmnet_06\Ass.06_Final\Ass.06_Final\Ass.06_Final.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.15
